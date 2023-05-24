@@ -10,3 +10,12 @@ My area of interest is software development and I’m looking for the opportunit
 
 In my free time I love to ride bike, maintaining them and to explore about new bikes.<br>
  [ [@suyogwaghere](https://github.com/suyogwaghere) ]
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3S99GWDYCR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3S99GWDYCR');
+</script>
