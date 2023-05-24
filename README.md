@@ -1,4 +1,4 @@
-# About-Me
+# About-Me [ [@suyogwaghere](https://github.com/suyogwaghere) ]
 My self Suyog Waghere,
 I believe in helping people and love meeting new people.<br>
 
@@ -9,4 +9,4 @@ My specialty includes C Programming, Java Programming, Python, OOPs, Web Develop
 My area of interest is software development and I’m looking for the opportunity to explore in any of the above domains.<br>
 
 In my free time I love to ride bike, maintaining them and to explore about new bikes.<br>
-@suyogwaghere[ [@suyogwaghere](https://github.com/suyogwaghere) ]
+ [ [@suyogwaghere](https://github.com/suyogwaghere) ]
