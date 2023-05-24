@@ -9,4 +9,4 @@ My specialty includes C Programming, Java Programming, Python, OOPs, Web Develop
 My area of interest is software development and I’m looking for the opportunity to explore in any of the above domains.<br>
 
 In my free time I love to ride bike, maintaining them and to explore about new bikes.<br>
-@suyogwaghere
+@suyogwaghere[ [@suyogwaghere](https://github.com/suyogwaghere) ]
